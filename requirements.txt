@@ -1,0 +1,16 @@
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+numpy==1.23.5
+pandas==2.2.3
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+shap==0.41.0
+pybaseball==2.2.7
+xgboost==1.7.6
+lightgbm==4.1.0
+catboost==1.2.2
+tqdm==4.66.2
+joblib==1.4.2
+numba==0.56.4
