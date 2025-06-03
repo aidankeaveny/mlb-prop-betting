@@ -7,3 +7,5 @@ __pycache__/
 output/
 .DS_Store
 .env
+data/*.csv
+notebooks/*.csv
