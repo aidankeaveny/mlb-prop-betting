@@ -4,8 +4,6 @@ __pycache__/
 *.pkl
 *.joblib
 *.parquet
-*.csv
 output/
-data/
 .DS_Store
 .env
